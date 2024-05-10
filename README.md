@@ -1,4 +1,4 @@
-## Hi there 👋 <img align="right" src="https://komarev.com/ghpvc/?username=umxrs&color=269077">
+## Hi there 👋 I'm Umar <img align="right" src="https://komarev.com/ghpvc/?username=umxrs&color=269077">
 ### 👨🏻‍ &nbsp;About Me
 - 💻 Self taught Front End Developer
 - 🌱 Currently learning Javascript
