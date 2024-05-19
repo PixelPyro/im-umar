@@ -2,7 +2,7 @@
 ### 👨🏻‍ &nbsp;About Me
 - 💻 Self taught Front End Developer
 - 🌱 Currently learning Javascript
-- 🔥 See my [Work](https://im-umar.github.io/portfolio/work)
+- 🔥 See my [Work](https://pixel-perfectionist.github.io/portfolio/work)
 
 ### 🛠 &nbsp;Tech Stack
 ![Arch](https://img.shields.io/badge/Arch-141a20?style=flat&logo=Arch-linux)&nbsp;
